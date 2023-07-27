@@ -1,0 +1,508 @@
+[
+    {
+      "Nome": "Punho Mortal",
+      "SubNome": "",
+      "Descricao": "Conheça a história de Naok",
+      "Escrito": "Entenda a origem dos Aedificantes, e como eles resistiram a soberania da Red Right Hand.",
+      "Ref": "S_PM",
+      "Data": "2023-07-26T22:58:14.584Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Drama",
+        "Ação",
+        "Violência",
+        "Sci-Fi"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_CONG",
+          "Nome": "Congregadores",
+          "Img": "https://live.staticflickr.com/65535/52738545646_566b24c59d_w.jpg"
+        }
+      ],
+      "isAlternative": false,
+      "ImgRef": "https://live.staticflickr.com/65535/52848281377_e6a3d19661_n.jpg",
+      "Tipo": "SOLO",
+      "Keywords": [
+        "Soco",
+        "Murro",
+        "Naok",
+        "Congregadores",
+        "Congregador"
+      ]
+    },
+    {
+      "Nome": "O Glacial Fim do Mundo",
+      "SubNome": "",
+      "Descricao": "Cole Froz, um dos herdeiros do trono de Gelo, chega a terra e descobre que deve destruí-la.",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "S_GFDM",
+      "Data": "2023-07-26T22:58:14.584Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Drama",
+        "Ação",
+        "Sci-Fi"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_GUA",
+          "Nome": "Guardiões",
+          "Img": "https://live.staticflickr.com/65535/52739030543_751119292d_n.jpg"
+        }
+      ],
+      "isAlternative": true,
+      "ImgRef": "https://live.staticflickr.com/65535/52748630855_758ce69294_n.jpg",
+      "Tipo": "SOLO",
+      "Keywords": [
+        "Desastre",
+        "Catástrofe",
+        "Apocalipse",
+        "Froz",
+        "Reino Froz"
+      ]
+    },
+    {
+      "Nome": "Hades",
+      "SubNome": "",
+      "Descricao": "Entenda a mente do homem de origem divina que tem um desejo incensável de mais poder. Ele não vai parar enquanto não tiver o que quer.",
+      "Escrito": "Caio Henrique",
+      "Ref": "S_HAD",
+      "Data": "2023-07-26T22:58:14.584Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Ação",
+        "Universal",
+        "Sci-Fi"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "S_CIEC",
+          "Nome": "Ciecon",
+          "Img": "https://live.staticflickr.com/65535/52738589846_0158b4f28c_w.jpg"
+        },
+        {
+          "Ref": "SE_GUA",
+          "Nome": "Guardiões",
+          "Img": "https://live.staticflickr.com/65535/52739030543_751119292d_n.jpg"
+        }
+      ],
+      "isAlternative": false,
+      "ImgRef": "https://live.staticflickr.com/65535/52739035768_37250eb886_n.jpg",
+      "Tipo": "SOLO",
+      "Keywords": [
+        "Demônio",
+        "Tirano",
+        "Deus",
+        "Mal"
+      ]
+    },
+    {
+      "Nome": "Ciecon",
+      "SubNome": "O Justiceiro Espacial",
+      "Descricao": "Ciecon tinha uma vida pacata e tranquila, junto a sua família que tanto ama. Porém, de repente, sua vida muda de uma forma repentina.",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "S_CIEC",
+      "Data": "2023-07-26T22:58:14.584Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Sci-Fi",
+        "Universal",
+        "Ação",
+        "Drama"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_CONG",
+          "Nome": "Congregadores",
+          "Img": "https://live.staticflickr.com/65535/52738545646_566b24c59d_w.jpg"
+        },
+        {
+          "Ref": "S_HAD",
+          "Nome": "Hades",
+          "Img": "https://live.staticflickr.com/65535/52739035768_37250eb886_n.jpg"
+        }
+      ],
+      "isAlternative": false,
+      "ImgRef": "https://live.staticflickr.com/65535/52738589846_0158b4f28c_w.jpg",
+      "Tipo": "SOLO",
+      "Keywords": [
+        "Congregadores",
+        "Congregador",
+        "Herói",
+        "Justiça",
+        "Justiceiro",
+        "Espaço",
+        "Galáxia"
+      ]
+    },
+    {
+      "Nome": "Kerry",
+      "SubNome": "O Guerreiro da Vingança",
+      "Descricao": "A vida de Kerry foi destruída e ele foi descartado como lixo. Mas quando ele se levanta, seu único desejo é a vingança",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "S_KER",
+      "Data": "2023-07-26T22:58:14.584Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Drama",
+        "Ação",
+        "Violência"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_GUA",
+          "Nome": "Guardiões",
+          "Img": "https://live.staticflickr.com/65535/52739030543_751119292d_n.jpg"
+        }
+      ],
+      "isAlternative": false,
+      "ImgRef": "https://live.staticflickr.com/65535/52739030508_e60672c0fd_w.jpg",
+      "Tipo": "SOLO",
+      "Keywords": [
+        "Aço",
+        "O homem de aço",
+        "Forte",
+        "de ferro",
+        "Vingança"
+      ]
+    },
+    {
+      "Nome": "Red Right Hand",
+      "SubNome": "RRH",
+      "Descricao": "Acompanhe a história de uma equipe formado por poderosos que controla Severum e tem como um dos seus objetivos a dominância perante todo o universo,seja em poder aquisitivo ou poder de combate.",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "SE_RRH",
+      "Data": "2023-07-26T22:58:14.683Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Ação",
+        "Drama",
+        "Gestão",
+        "Sci-Fi"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_CONG",
+          "Nome": "Congregadores",
+          "Img": "https://live.staticflickr.com/65535/52738545646_566b24c59d_w.jpg"
+        }
+      ],
+      "Capitulos": [
+        {
+          "Nome": "Primeiros Passos",
+          "Disponivel": true,
+          "NumEps": 5,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "A reunião",
+              "Ref": "01",
+              "Numero": 1
+            },
+            {
+              "Nome": "Reconhecimento",
+              "Ref": "02",
+              "Numero": 2
+            },
+            {
+              "Nome": "Invasões",
+              "Ref": "03",
+              "Numero": 3
+            },
+            {
+              "Nome": "Brechas do passado",
+              "Ref": "04",
+              "Numero": 4
+            },
+            {
+              "Nome": "Veredicto",
+              "Ref": "05",
+              "Numero": 5
+            }
+          ]
+        },
+        {
+          "Nome": "Diplomacia Falsa",
+          "Disponivel": true,
+          "NumEps": 4,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "Novos Conflitos",
+              "Ref": "06",
+              "Numero": 6
+            },
+            {
+              "Nome": "Ao Roubo",
+              "Ref": "07",
+              "Numero": 7
+            },
+            {
+              "Nome": "Ilusões",
+              "Ref": "08",
+              "Numero": 8
+            },
+            {
+              "Nome": "A expedição",
+              "Ref": "09",
+              "Numero": 9
+            }
+          ]
+        },
+        {
+          "Nome": "Mudanças drásticas",
+          "Disponivel": true,
+          "NumEps": 4,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "Surpresas",
+              "Ref": "10",
+              "Numero": 10
+            },
+            {
+              "Nome": "Virando o jogo",
+              "Ref": "11",
+              "Numero": 11
+            },
+            {
+              "Nome": "Extorsão",
+              "Ref": "12",
+              "Numero": 12
+            },
+            {
+              "Nome": "Recompensados",
+              "Ref": "13",
+              "Numero": 13
+            }
+          ]
+        },
+        {
+          "Nome": "Ressurreição",
+          "Disponivel": true,
+          "NumEps": 5,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "Férias Interrompidas",
+              "Ref": "14",
+              "Numero": 14
+            },
+            {
+              "Nome": "Conflitos Internos",
+              "Ref": "15",
+              "Numero": 15
+            },
+            {
+              "Nome": "De dentro pra fora",
+              "Ref": "16",
+              "Numero": 16
+            },
+            {
+              "Nome": "Implosões e explosões",
+              "Ref": "17",
+              "Numero": 17
+            },
+            {
+              "Nome": "Expansão",
+              "Ref": "18",
+              "Numero": 18
+            }
+          ]
+        },
+        {
+          "Nome": "Expansão",
+          "Disponivel": true,
+          "NumEps": 4,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "Resistência",
+              "Ref": "19",
+              "Numero": 19
+            },
+            {
+              "Nome": "Tensões",
+              "Ref": "20",
+              "Numero": 20
+            },
+            {
+              "Nome": "Distrações",
+              "Ref": "21",
+              "Numero": 21
+            },
+            {
+              "Nome": "Proximidade",
+              "Ref": "22",
+              "Numero": 22
+            }
+          ]
+        },
+        {
+          "Nome": "A Guerra",
+          "Disponivel": true,
+          "NumEps": 4,
+          "DescCap": "Descricao de capítulo aqui",
+          "Episodios": [
+            {
+              "Nome": "Fogo intermitente",
+              "Ref": "23",
+              "Numero": 23
+            },
+            {
+              "Nome": "Sombras de poder",
+              "Ref": "24",
+              "Numero": 24
+            },
+            {
+              "Nome": "Permeando o impermeável",
+              "Ref": "25",
+              "Numero": 25
+            }
+          ]
+        }
+      ],
+      "Tipo": "SERIE",
+      "ImgRef": "https://live.staticflickr.com/65535/52738957050_a77ae50199_w.jpg",
+      "Keywords": [
+        "Arner",
+        "Guerra",
+        "Masin",
+        "Yaa",
+        "Tsuuya",
+        "RRH",
+        "Delimitador",
+        "Fingers",
+        "Tarlin",
+        "Mão",
+        "Right",
+        "Hand",
+        "Guerras",
+        "Diplomacia",
+        "Primeiros passos",
+        "Severum",
+        "Universal",
+        "Espaço",
+        "Andromeda",
+        "Andrômeda"
+      ]
+    },
+    {
+      "Nome": "Menino Resiliente I",
+      "SubNome": "MR I",
+      "Descricao": "Larry,um menino tranquilo se envolve em acidentes e ocorre atrocidades em sua vida.Porém,em meio a tristeza e a perdição,ele percebe que ele tem um poder incomum.",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "SE_MR1",
+      "Data": "2023-07-26T22:58:14.683Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Ação",
+        "Drama",
+        "Teen"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "SE_GUA",
+          "Nome": "Guardiões",
+          "Img": "https://live.staticflickr.com/65535/52739030543_751119292d_n.jpg"
+        },
+        {
+          "Ref": "SE_MR2",
+          "Nome": "Menino Resiliente II",
+          "Img": "https://live.staticflickr.com/65535/52849249375_625ee704a7_m.jpg"
+        }
+      ],
+      "Capitulos": [    ],
+      "Tipo": "SERIE",
+      "ImgRef": "https://live.staticflickr.com/65535/52739881142_cc750f9fba_m.jpg",
+      "Keywords": [
+        "Larry",
+        "Beatus",
+        "Guardiões",
+        "Guardioes",
+        "Terra",
+        "Herói",
+        "Susbituto",
+        "Guardião"
+      ]
+    },
+    {
+      "Nome": "Guardiões",
+      "SubNome": "Guard.",
+      "Descricao": "Beenie se muda da cidade com seus pais em busca de uma vida melhor e um futuro promissor. Porém nessa cidade,há coisas que eles nunca imaginariam que teriam que enfrentar.",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "SE_GUA",
+      "Data": "2023-07-26T22:58:14.683Z",
+      "Status": "EM ANDAMENTO",
+      "Categorias": [
+        "Ação",
+        "Drama"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "S_HAD",
+          "Nome": "Hades",
+          "Img": "https://live.staticflickr.com/65535/52739035768_37250eb886_n.jpg"
+        },
+        {
+          "Ref": "S_KER",
+          "Nome": "Kerry",
+          "Img": "https://live.staticflickr.com/65535/52739030508_e60672c0fd_w.jpg"
+        }
+      ],
+      "Capitulos": [    ],
+      "Tipo": "SERIE",
+      "ImgRef": "https://live.staticflickr.com/65535/52739030543_751119292d_n.jpg",
+      "Keywords": [
+        "Beenie",
+        "Kevin",
+        "Telecinese",
+        "Escuridon",
+        "Guardião",
+        "Terra",
+        "Herói",
+        "Heróis"
+      ]
+    },
+    {
+      "Nome": "Congregadores",
+      "SubNome": "Cong.",
+      "Descricao": "Ciecon, depois de derrotar Hades, marcha em busca de aliados para conseguir a tão sonhada Justiça Universal",
+      "Escrito": "CAIO HENRIQUE",
+      "Ref": "SE_CONG",
+      "Data": "2023-07-26T22:58:14.683Z",
+      "Status": "COMPLETO",
+      "Categorias": [
+        "Sci-Fi",
+        "Ação",
+        "Drama",
+        "Gestão"
+      ],
+      "Relacionados": [
+        {
+          "Ref": "S_PM",
+          "Nome": "Punho Mortal",
+          "Img": "https://live.staticflickr.com/65535/52848281377_e6a3d19661_n.jpg"
+        },
+        {
+          "Ref": "S_CIEC",
+          "Nome": "Ciecon",
+          "Img": "https://live.staticflickr.com/65535/52738589846_0158b4f28c_w.jpg"
+        }
+      ],
+      "Capitulos": [    ],
+      "Tipo": "SERIE",
+      "ImgRef": "https://live.staticflickr.com/65535/52738545646_566b24c59d_w.jpg",
+      "Keywords": [
+        "Espaço",
+        "Ciecon",
+        "Punho Mortal",
+        "Rex",
+        "Justiça",
+        "Paz",
+        "Liberdade",
+        "Hades"
+      ]
+    }
+  ]
